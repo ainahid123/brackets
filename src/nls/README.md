@@ -72,6 +72,7 @@ The following languages have been contributed by the Brackets community:
 * Ukrainian (uk)
 * Simplified Chinese (zh-cn)
 * Traditional Chinese (zh-tw)
+* Bengali(bn)
 
 These translations _can be directly modified_ through our normal pull request
 process. Make sure that you also update the comment on the last line with the 
